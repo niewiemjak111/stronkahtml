@@ -1,0 +1,43 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="description" content="POZNAJ USA">
+	<title>Poznaj USA</title>
+</head>
+<body>
+
+<span style="font-size:xx-large">
+
+<body style="background-color:silver; color:black">
+
+<body background="tło.webp">
+
+<MARQUEE>
+<p style="text-align: center"><span style="font-size:xxx-large">USA - Najciekawsze miejsca
+</MARQUEE>
+
+<p style="text-align: left"><span style="font-size:xx-large"> Chciałbym przedstawić tutaj kilka miejsc w USA, które są warte odwiedzenia, a także te, które mają ciekawą historię.
+
+</i><br><br>
+
+<img src="zdj1.jpeg" width="700"height"600"style="float:right">
+
+<hr style="height: 10px; background:black; border: 0px;">
+
+<hr style="height: 10px; background:blue; border: 2px;">
+
+<hr style="height: 10px; background:white; border: 0px;">
+
+<hr style="height: 10px; background:red; border: 2px;">
+
+<hr style="height: 10px; background:black; border: 0px;">
+
+<br><br>
+
+
+<a href="podstr1.html">Statua Wolności</a>
+<a href="podstr2.html">Grand Canyon</a>
+<a href="podstr3.html">Hollywood Sign</a>
+<a href="podstr4.html">Hawaje</a>
+<a href="podstr5.html">Times Square</a>
